@@ -1,3 +1,3 @@
-# 资源同步站
+# resource-index
 
-auto index mirror. 每日自动更新。脚本维护，无人工。
+公开资源的分类索引与镜像。
