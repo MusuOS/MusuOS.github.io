@@ -1,2 +1,3 @@
-# MusuOS.github.io
-Musu 的门牌 🐾
+# index
+
+auto-generated. see repositories.
